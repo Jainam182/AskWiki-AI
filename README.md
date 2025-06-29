@@ -8,8 +8,8 @@ An interactive AI-powered app that answers your questions about Artificial Intel
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/wiki-rag.git
-cd wiki-rag
+git clone https://github.com/your-username/askwiki-ai.git
+cd askwiki-ai
 ```
 
 ### 2. Set up your environment
